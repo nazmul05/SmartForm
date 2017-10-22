@@ -6,3 +6,13 @@
 .btnRight{
   float:right;
 }
+.question{
+	display: none;
+}
+#welcome{
+	display:block;
+}
+
+#q1,#q2,#q2a,#q2b,#q2c,#q3,#thanks{
+  display: none;
+}
